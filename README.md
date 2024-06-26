@@ -21,12 +21,8 @@ Imagera, şəkilləri yükləmək və dinamik baxış linkləri yaratmaq prosesi
 
 Imagera, şəkillərin idarə edilməsi üçün intuitiv və istifadəçi dostu bir platforma təqdim etməyi hədəfləyir və həm təsadüfi istifadəçilər, həm də peşəkarlar üçün ideal bir vasitədir.
 
-## GitHub Repozitoriyası
-
-Layhiənin Qaynaq Kodları [Imagera GitHub Repozitoriyası](https://github.com/your-username/imagera)
-
 ## Rəsmi Sahibi
 
-**Developer:** Sizin Adınız  
-**Vebsayt:** [yourwebsite.com](https://yourwebsite.com)  
-**Əlaqə:** [your-email@example.com](mailto:your-email@example.com)
+**Developer:** Aziz Imranzade  
+**Vebsayt:** [yourwebsite.com](https://azizimranzade.vercel.app)  
+**Əlaqə:** [your-email@example.com](mailto:azizimranzade@gmail.com)
